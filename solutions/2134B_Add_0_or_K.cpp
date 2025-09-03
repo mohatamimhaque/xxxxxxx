@@ -43,7 +43,7 @@ void solve(int t) {
         cin>>x;
         cout<<x+(x%(k+1))*k<<' ';
     }
-    cout<<endl;
+    cout<<nl;
 }
 
 
